@@ -2,7 +2,7 @@ export default {
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
   router: {
-    base: 'photoU',
+    // base: '/photoU', // for deploy
   },
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
@@ -17,7 +17,7 @@ export default {
   },
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
-  css: [],
+  css: ['@/assets/site.css'],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [],
@@ -41,6 +41,8 @@ export default {
     '@nuxtjs/axios',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    // https://github.com/nuxt/components
+    '@nuxt/components',
   ],
 
   // Axios module configuration (https://go.nuxtjs.dev/config-axios)
@@ -51,4 +53,17 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {},
+
+  // Tailwind config (https://tailwindcss.nuxtjs.org/options)
+  tailwindcss: {
+    cssPath: '~/assets/css/tailwind.css',
+    configPath: 'tailwind.config.js',
+    exposeConfig: true,
+    config: {
+      /* Extend the Tailwind config here */
+      purge: {
+        content: ['content/**/**.md'],
+      },
+    },
+  },
 }
