@@ -3,7 +3,7 @@
   <!-- menu-item leftside -->
   <nav
     id="header"
-    class="relative z-30 flex flex-row items-center w-full h-16 mx-auto overflow-hidden bg-black md:px-8"
+    class="relative z-30 flex flex-row items-center w-full h-16 px-6 mx-auto overflow-hidden bg-black"
   >
     <div
       id="navbar-menu"

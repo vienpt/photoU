@@ -1,0 +1,16 @@
+* {
+  -webkit-tab-highlight-color: transparent;
+}
+
+.grid--gray {
+  background-image: radial-gradient(#ddd 3px, transparent 3px);
+  background-size: 24px 24px;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  font-style: normal;
+  /* font-weight: 400; */
+  font-display: swap;
+  src: url('~assets/fonts/SF-Pro-Display-light.otf') format('truetype');
+}

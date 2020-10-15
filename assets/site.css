@@ -1,8 +1,0 @@
-* {
-  -webkit-tab-highlight-color: transparent;
-}
-
-.grid--gray {
-  background-image: radial-gradient(#ddd 3px, transparent 3px);
-  background-size: 24px 24px;
-}

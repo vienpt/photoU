@@ -1,8 +1,12 @@
 <template>
-  <section id="hero-section" class="">
-    <img class="object-cover w-full" src="~/assets/images/herosection.jpg" />
+  <section id="hero-section" class="relative items-center">
+    <img
+      class="object-cover w-full"
+      src="~/assets/images/herosection.jpg"
+      style="height: 768px"
+    />
     <div
-      class="container absolute mx-auto"
+      class="container absolute px-6 pb-56"
       style="top: 50%; left: 50%; transform: translate(-50%, -50%)"
     >
       <h2 class="mb-2 text-4xl font-bold text-white">Photo for you</h2>

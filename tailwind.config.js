@@ -12,8 +12,10 @@ module.exports = {
       xl: '1280px',
     },
     fontFamily: {
-      display: ['Gilroy', 'sans-serif'],
-      body: ['Graphik', 'sans-serif'],
+      sans: ['SF Pro Display'],
+      serif: ['SF Pro Display'],
+      display: ['SF Pro Display', 'sans-serif'],
+      body: ['SF Pro Display', 'sans-serif'],
     },
     borderWidth: {
       default: '1px',
@@ -25,6 +27,7 @@ module.exports = {
       colors: {
         cyan: '#9cdbff',
         grey: '#f3f3f4',
+        greywhite: '#f2f2f2',
       },
       spacing: {
         96: '24rem',
