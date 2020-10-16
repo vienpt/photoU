@@ -13,9 +13,19 @@ module.exports = {
     },
     fontFamily: {
       sans: ['SF Pro Display'],
-      serif: ['SF Pro Display'],
-      display: ['SF Pro Display', 'sans-serif'],
-      body: ['SF Pro Display', 'sans-serif'],
+      serif: ['sans-serif'],
+      display: [
+        'SF Pro Display',
+        '-apple-system',
+        'BlinkMacSystemFont',
+        'sans-serif',
+      ],
+      body: [
+        'SF Pro Display',
+        '-apple-system',
+        'BlinkMacSystemFont',
+        'sans-serif',
+      ],
     },
     borderWidth: {
       default: '1px',
