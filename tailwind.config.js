@@ -11,22 +11,6 @@ module.exports = {
       lg: '1024px',
       xl: '1280px',
     },
-    fontFamily: {
-      sans: ['SF Pro Display'],
-      serif: ['sans-serif'],
-      display: [
-        'SF Pro Display',
-        '-apple-system',
-        'BlinkMacSystemFont',
-        'sans-serif',
-      ],
-      body: [
-        'SF Pro Display',
-        '-apple-system',
-        'BlinkMacSystemFont',
-        'sans-serif',
-      ],
-    },
     borderWidth: {
       default: '1px',
       0: '0',

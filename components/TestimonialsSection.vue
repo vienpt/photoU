@@ -10,10 +10,10 @@
           <h2 class="text-2xl font-semibold leading-snug">
             Fast, free, no‑contact delivery
           </h2>
-          <p class="mt-3 text-xl font-hairline leading-snug">
+          <p class="mt-3 text-xl font-light leading-snug">
             And free access. See checkout for our photo.
           </p>
-          <button class="px-8 py-4 leading-tight tracking-wider text-blue-600">
+          <button class="px-8 py-4 font-medium leading-tight text-blue-600">
             <span class="hover:underline">Learn more</span>
             <svg
               class="inline-block w-3 h-3 fill-current"
@@ -33,10 +33,10 @@
           <h2 class="text-2xl font-semibold leading-snug">
             Fast, free, no‑contact delivery
           </h2>
-          <p class="mt-3 text-xl font-hairline leading-snug">
+          <p class="mt-3 text-xl leading-snug font-ligh">
             And free access. See checkout for our photo.
           </p>
-          <button class="px-8 py-4 leading-tight tracking-wider text-blue-600">
+          <button class="px-8 py-4 font-medium leading-tight text-blue-600">
             <span class="hover:underline">Learn more</span>
             <svg
               class="inline-block w-3 h-3 fill-current"
@@ -56,10 +56,10 @@
           <h2 class="text-2xl font-semibold leading-snug">
             Fast, free, no‑contact delivery
           </h2>
-          <p class="mt-3 text-xl font-hairline leading-snug">
+          <p class="mt-3 text-xl font-light leading-snug">
             And free access. See checkout for our photo.
           </p>
-          <button class="px-8 py-4 leading-tight tracking-wider text-blue-600">
+          <button class="px-8 py-4 font-medium leading-tight text-blue-600">
             <span class="hover:underline">Learn more</span>
             <svg
               class="inline-block w-3 h-3 fill-current"

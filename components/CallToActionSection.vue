@@ -9,7 +9,7 @@
         story photographers, and more with architecture store image on
         Cloundaniry and content.
       </h3>
-      <button class="px-8 leading-tight tracking-wider text-blue-600">
+      <button class="px-8 font-medium leading-tight text-blue-600">
         <span class="hover:underline">Learn more</span>
         <svg
           class="inline-block w-3 h-3 fill-current"

@@ -3,7 +3,9 @@
     <div class="container px-6 py-10 mx-auto">
       <div class="flex flex-wrap justify-center border-t">
         <div class="w-full md:w-1/4 md:text-left">
-          <h5 class="my-2 text-sm font-bold md:mb-6 md:text-base">Links</h5>
+          <h5 class="my-2 text-sm font-bold text-gray-800 md:mb-6 md:text-base">
+            Links
+          </h5>
           <ul class="mb-4">
             <li class="mt-2">
               <a href="#" class="text-sm text-gray-600 hover:underline">FAQ</a>
@@ -19,7 +21,9 @@
           </ul>
         </div>
         <div class="w-full md:w-1/4 md:text-left">
-          <h5 class="my-2 text-sm font-bold md:mb-6 md:text-base">Legal</h5>
+          <h5 class="my-2 text-sm font-bold text-gray-800 md:mb-6 md:text-base">
+            Legal
+          </h5>
           <ul class="mb-4">
             <li class="mt-2">
               <a href="#" class="text-sm text-gray-600 hover:underline"
@@ -34,7 +38,9 @@
           </ul>
         </div>
         <div class="w-full md:w-1/4 md:text-left">
-          <h5 class="my-2 text-sm font-bold md:mb-6 md:text-base">Social</h5>
+          <h5 class="my-2 text-sm font-bold text-gray-800 md:mb-6 md:text-base">
+            Social
+          </h5>
           <ul class="mb-4">
             <li class="mt-2">
               <a href="#" class="text-sm text-gray-600 hover:underline"
@@ -54,7 +60,9 @@
           </ul>
         </div>
         <div class="w-full md:w-1/4 md:text-left">
-          <h5 class="my-2 text-sm font-bold md:mb-6 md:text-base">Company</h5>
+          <h5 class="my-2 text-sm font-bold text-gray-800 md:mb-6 md:text-base">
+            Company
+          </h5>
           <ul class="mb-4">
             <li class="mt-2">
               <a href="#" class="text-sm text-gray-600 hover:underline"
