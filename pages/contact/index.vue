@@ -1,7 +1,7 @@
 <template>
   <!-- component -->
   <div
-    class="relative flex justify-center min-h-screen bg-white items-top dark:bg-gray-900 sm:items-center sm:pt-0"
+    class="flex justify-center min-h-screen bg-white items-top dark:bg-gray-900 sm:items-center sm:pt-0"
   >
     <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
       <div class="mt-8 overflow-hidden">
@@ -44,7 +44,7 @@
                 />
               </svg>
               <div class="w-40 ml-4 font-semibold tracking-wide text-md">
-                Acme Inc, Street, State, Postal Code
+                Abc Inc, Street, State, Postal Code
               </div>
             </div>
 
@@ -68,7 +68,7 @@
                 />
               </svg>
               <div class="w-40 ml-4 font-semibold tracking-wide text-md">
-                +44 1234567890
+                +84 123456789
               </div>
             </div>
 
@@ -92,7 +92,7 @@
                 />
               </svg>
               <div class="w-40 ml-4 font-semibold tracking-wide text-md">
-                info@acme.org
+                info@email.com
               </div>
             </div>
           </div>
