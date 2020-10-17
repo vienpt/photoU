@@ -1,8 +1,8 @@
 export default {
   // Target (https://go.nuxtjs.dev/config-target)
-  target: 'server',
+  target: 'static',
   router: {
-    // base: '/photoU', // for deploy
+    base: '/photoU', // for deploy
   },
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
