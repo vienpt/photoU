@@ -1,7 +1,7 @@
 <template>
   <section
     id="features-section"
-    class="container z-30 p-10 px-6 mx-auto mt-20 bg-white rounded-lg shadow-xl"
+    class="container z-30 p-10 px-6 mx-auto -mt-10 bg-white rounded-lg shadow-xl"
   >
     <h2 class="mb-8 text-4xl font-bold text-center text-gray-800">Features</h2>
     <div class="flex flex-wrap items-center mb-20">
@@ -14,13 +14,19 @@
         </p>
       </div>
       <div class="w-full md:w-1/2">
-        <img src="assets/health.svg" alt="Monitoring" />
+        <img
+          src="https://dummyimage.com/600x400/edf2f7/0f1631"
+          alt="Monitoring"
+        />
       </div>
     </div>
 
     <div class="flex flex-wrap items-center mb-20">
       <div class="w-full md:w-1/2">
-        <img src="assets/report.svg" alt="Reporting" />
+        <img
+          src="https://dummyimage.com/600x400/edf2f7/0f1631"
+          alt="Reporting"
+        />
       </div>
       <div class="w-full pl-10 md:w-1/2">
         <h4 class="mb-3 text-3xl font-bold text-gray-800">Reporting</h4>
@@ -42,7 +48,7 @@
         </p>
       </div>
       <div class="w-full md:w-1/2">
-        <img src="assets/sync.svg" alt="Syncing" />
+        <img src="https://dummyimage.com/600x400/edf2f7/0f1631" alt="Syncing" />
       </div>
     </div>
   </section>

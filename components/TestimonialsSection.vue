@@ -1,6 +1,6 @@
 <template>
   <section id="testimonials-section">
-    <div class="container py-20 mx-auto">
+    <div class="container py-20 mx-auto text-black">
       <!-- <h2 class="mb-8 text-4xl font-bold text-center">Testimonials</h2> -->
       <div class="flex flex-wrap justify-center">
         <div
