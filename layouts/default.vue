@@ -7,9 +7,8 @@
         <!-- Replace with your content -->
         <Nuxt />
         <!-- /End replace -->
+        <CallToActionSection />
       </section>
-      <TestimonialsSection />
-      <CallToActionSection />
     </main>
     <Footer />
   </div>

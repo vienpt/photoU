@@ -1,7 +1,7 @@
 <template>
   <section
     id="features-section"
-    class="container z-30 p-10 px-6 mx-auto -mt-10 bg-white rounded-lg shadow-xl"
+    class="container z-30 p-10 px-6 mx-auto -mt-10 bg-white shadow-sm"
   >
     <h2 class="mb-8 text-4xl font-bold text-center text-gray-800">Features</h2>
     <div class="flex flex-wrap items-center mb-20">

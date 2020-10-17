@@ -25,6 +25,7 @@
     <div class="container py-20 mx-auto">
       <h1 class="mx-auto bg-green-500 title">photoU</h1>
     </div>
+    <TestimonialsSection />
   </div>
 </template>
 
